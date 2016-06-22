@@ -31,16 +31,6 @@ about access points and stations including, but not limited to:
 3.) Channel (Channel required for the specific mdk3 attacks that desire it)
 
 By default, the script runs the basic configuration for each mdk3 attack. These can be 
-changed at anytime by modifying the bash file auto-mdk3_v02.sh.
+changed at anytime by modifying the bash file automdk3.
 
 There is no error checks provided in this script so if you mess up you will have re-run the script.
-
-## CONTACT ME ##
-
-If you have any questions contact me at my email, facebook, or linkdin accounts.
-
-Email:            yokai.linux.tutorials@outlook.com
-facebook:         www.facebook.com/yokai.innorruk
-Linkdin:          www.linkdin/in/nathaniel-spinks
-
-
